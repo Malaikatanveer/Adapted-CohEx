@@ -1,3 +1,4 @@
+ipykernel
 keras
 matplotlib
 networkx
