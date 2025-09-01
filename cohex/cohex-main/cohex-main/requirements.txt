@@ -1,0 +1,22 @@
+argparse
+keras
+matplotlib
+networkx
+matplotlib
+numpy
+os
+pandas
+random
+seaborn
+sklearn
+scikit-learn
+scipy
+shap
+sympy
+tempeh @ git+https://github.com/microsoft/tempeh.git@main
+torch
+torchaudio
+torchvision
+tqdm
+ucimlrepo
+xgboost

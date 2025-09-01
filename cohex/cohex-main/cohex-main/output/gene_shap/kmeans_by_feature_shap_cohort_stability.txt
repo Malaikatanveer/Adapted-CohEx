@@ -1,0 +1,8 @@
+adjusted rand score (mean +- std):
+    0.5664679052798167 +- 0.057544097684445634
+adjusted rand score per iteration:
+    Iter 1: 0.5438712495231824
+    Iter 2: 0.5085612846898394
+    Iter 3: 0.6740018628401988
+    Iter 4: 0.5334083911164544
+    Iter 5: 0.5724967382294085

@@ -1,0 +1,5 @@
+Test R2: 0.9365
+Test Adjusted R2: 0.9042
+Test RMSE: 0.5691
+Test MAE: 0.3886
+
